@@ -1,0 +1,5 @@
+Tuomas;osoite
+"Joulu;bull";bull@mentula.com
+Jari;jartsa@hotmail.com
+Kerttu;kerttu@gmail.com
+Juho;juhis@gmail.com
