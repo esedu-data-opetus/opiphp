@@ -1,0 +1,25 @@
+/* tietovisa_screen.css */
+.kysymys {
+	margin: 15px;
+	padding: 10px;
+	border: 1px solid #333;
+	border-radius: 3px;
+}
+
+.painikkeet {
+	margin: 10px 0px 20px 0px;
+}
+
+.painikkeet a {
+	font-family: sans-serif;
+	margin: 0px;
+	padding: 6px;
+	border-radius: 5px;
+	background-color: red;
+	color: white;
+	text-decoration: none;
+}
+
+.painikkeet a:hover {
+	background-color: green;
+}

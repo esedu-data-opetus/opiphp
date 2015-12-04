@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tietovisa>
+	<nimi>Mielikuvitussankarit</nimi>
+	<tekijä>Tuomas Puro</tekijä>
+	<pvm>31.10.2014</pvm>
+	<taso pisteet="5">
+		<kysymys>Mikä on Tupun ja Hupun veljen nimi?</kysymys>
+		<vastaus>Hepo</vastaus>
+		<vastaus>Lupo</vastaus>
+		<vastaus>Lipponen</vastaus>
+		<vastaus oikein="ok">Lupu</vastaus>
+		
+	</taso>
+	<taso pisteet="1">
+		<kysymys>Mikä on Batmanin oikea nimi?</kysymys>
+		<vastaus oikein="ok">Bruce Wayne</vastaus>
+		<vastaus>Peter Parker</vastaus>
+		<vastaus>Clark Kent</vastaus>
+		<vastaus>Chuck Norris</vastaus>
+	</taso>
+	<taso pisteet="10">
+		<kysymys>Mikä on James Bondin koodinumero?</kysymys>
+		<vastaus>666</vastaus>
+		<vastaus>0100100</vastaus>
+		<vastaus oikein="ok">007</vastaus>
+		<vastaus>123</vastaus>
+	</taso>
+</tietovisa>
